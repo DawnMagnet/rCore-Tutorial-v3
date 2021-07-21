@@ -1,0 +1,6 @@
+image: swr.cn-north-4.myhuaweicloud.com/codechina/rcore-lab:pytest_sudo
+
+tasks:
+  - command: >
+        sudo su 
+
